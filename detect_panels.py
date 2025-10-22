@@ -5,7 +5,7 @@ from PIL import Image, ImageDraw
 
 # ==================== CONFIGURATION ====================
 OPENAI_MODEL = "gpt-5"
-EXCEL_PATH   = r"C:\path\to\address_list.xlsx"
+EXCEL_PATH   = r"address path"
 SHEET_NAME   = None  # None -> first sheet
 # ======================================================
 
